@@ -1,6 +1,7 @@
 # GnOte
 
-Another slop idea I had during my semester exam lol. Check out the [gnet-utility](https://github.com/psychoSherlock/gnet-utility) too
+Another slop idea I had during my semester exam lol. Check out the [gnet-utility](https://github.com/psychoSherlock/gnet-utility) too.
+
 A quiet quote on your GNOME desktop. It sits on the wallpaper in the bottom-right corner, shows a fresh quote every hour, and stays out of the way.
 
 <p align="center">
