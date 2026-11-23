@@ -1,0 +1,7 @@
+dist/
+*.zip
+# Created next to the extension at runtime
+quote.txt
+settings.json
+node_modules/
+.DS_Store

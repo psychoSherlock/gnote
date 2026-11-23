@@ -1,0 +1,8 @@
+{
+  "name": "GnOte",
+  "description": "Shows an inspirational quote on your desktop. Draggable, refreshes hourly, and you can edit the quote by hand.",
+  "uuid": "gnote@psychosherlock",
+  "shell-version": ["45", "46", "47", "48", "49"],
+  "version": 1,
+  "version-name": "1.0.0"
+}
