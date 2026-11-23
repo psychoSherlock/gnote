@@ -28,7 +28,7 @@ A quiet quote on your GNOME desktop. It sits on the wallpaper in the bottom-righ
 Requires GNOME Shell 45 to 49.
 
 ```sh
-git clone <this-repo> gnote
+git clone https://github.com/psychoSherlock/gnote.git
 cd gnote
 make install
 ```
